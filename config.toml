@@ -1,0 +1,44 @@
+baseURL = ""
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "PaperMod"
+paginate = "5"
+
+
+[params.homeInfoParams]
+  Title = "Sample website"
+  Content = """
+Welcome to demo of a hugo static website.
+- This is a simple but fast and responsive website with useful feature-set that enhances UX.
+"""
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Archive"
+url = "archives"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Categories"
+url = "categories/"
+weight = 10
+
+
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+

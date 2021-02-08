@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text on My New Hugo Site</title>
+    <link>/tags/text/</link>
+    <description>Recent content in text on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baba black sheep</title>
+      <link>/posts/baba-black/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/baba-black/</guid>
+      <description>Have you any wool?</description>
+    </item>
+    
+    <item>
+      <title>Bake a cake</title>
+      <link>/posts/bake-a-cake/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bake-a-cake/</guid>
+      <description>Bake me a cake, you Baker&amp;rsquo;s man!</description>
+    </item>
+    
+    <item>
+      <title>Humpty Dumpty</title>
+      <link>/posts/humpty-dumpty/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/humpty-dumpty/</guid>
+      <description>Sat on a wall!</description>
+    </item>
+    
+    <item>
+      <title>Jack and Jill</title>
+      <link>/posts/jack-and-jill/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/jack-and-jill/</guid>
+      <description>Went up the hill!</description>
+    </item>
+    
+    <item>
+      <title>Jingle bells</title>
+      <link>/posts/jingle-bells/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/jingle-bells/</guid>
+      <description>Jingle bells Jingle bells!</description>
+    </item>
+    
+    <item>
+      <title>Twinkle twinkle</title>
+      <link>/posts/twinkle-twinkle/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/twinkle-twinkle/</guid>
+      <description>Twinkle twinkle little star</description>
+    </item>
+    
+    <item>
+      <title>Wash your hands</title>
+      <link>/posts/wash-your-hands/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/wash-your-hands/</guid>
+      <description>Wash your hands with sanitizer!</description>
+    </item>
+    
+    <item>
+      <title>Wheels on the bus</title>
+      <link>/posts/wheels-on-the-bus/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/wheels-on-the-bus/</guid>
+      <description>Go round and round, all through the town</description>
+    </item>
+    
+  </channel>
+</rss>
